@@ -175,3 +175,6 @@ $RECYCLE.BIN/
 
 # SQL
 *.sql
+
+
+/src/public
